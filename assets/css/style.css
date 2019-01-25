@@ -71,6 +71,14 @@ a {
     border: solid 1px #dddddd;
 }
 
+.background_portfolio {
+    width: 960px;
+    height: 750px;
+    margin: auto;
+    background-color: #ffffff;
+    border: solid 1px #dddddd;
+}
+
 .image {
     margin-left: 40px;
     margin-right: 30px;
